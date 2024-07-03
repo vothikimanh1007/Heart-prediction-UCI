@@ -1,2 +1,4 @@
 # Heart-prediction-UCI
-Predicting Heart Failure with Machine Learning: A Technical Review
+Predicting Heart Failure with Machine Learning: A Technical ReviewPredicting Heart Failure with Machine Learning: A Technical Review
+Abstract
+Heart failure (HF) is a prevalent and serious cardiovascular condition with high morbidity and mortality rates. Early detection and prediction of HF are crucial for timely intervention and improved patient outcomes. Machine learning (ML) has emerged as a powerful tool for developing predictive models for HF, leveraging large and complex datasets to identify patterns and risk factors. This technical review provides a comprehensive overview of the application of ML in HF prediction, discussing various algorithms, feature selection techniques, model evaluation metrics, and challenges. The review also highlights the potential of deep learning models, such as Multilayer Perceptrons (MLPs), in improving prediction accuracy. Additionally, the importance of model interpretability and the need for further research to validate and integrate ML models into clinical practice are emphasized.
